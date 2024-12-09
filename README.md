@@ -1,2 +1,2 @@
 # DSA-Course
-Algorithms and pronblems 
+Algorithms and problems 
